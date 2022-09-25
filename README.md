@@ -8,6 +8,7 @@ The transformers architecture as seen below contains 3 important components:
 2. Encoder.
 3. Decoder.
 
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2019%2F06%2Funderstanding-transformers-nlp-state-of-the-art-models%2F&psig=AOvVaw1eYzr6fUSruXfTKoWKRhMe&ust=1664223983320000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKCItM7jsPoCFQAAAAAdAAAAABAD)
 
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2019%2F06%2Funderstanding-transformers-nlp-state-of-the-art-models%2F&psig=AOvVaw1eYzr6fUSruXfTKoWKRhMe&ust=1664223983320000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKCItM7jsPoCFQAAAAAdAAAAABAD" style=" width:700px ; height:500px ">
 
